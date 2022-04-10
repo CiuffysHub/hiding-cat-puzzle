@@ -1,4 +1,4 @@
-# hiding-cat-puzzle
+# Hiding Cat Puzzle Logic Programming
 Prolog and MiniZinc programs that give a proof of the solutions for the Hiding Cat Puzzle
 
 ## The problem
