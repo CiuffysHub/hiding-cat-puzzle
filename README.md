@@ -3,7 +3,7 @@ Prolog and MiniZinc programs that give a proof of the solutions for the Hiding C
 
 ## The problem
 
-You can find a detailed explanation of the puzzle in the following video:
+You can find a detailed explanation of the puzzle in the end of this page and in the following video, where the general solution is explained in detail:
 
 https://www.youtube.com/watch?v=yZyx9gHhRXM
 
